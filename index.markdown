@@ -4,3 +4,7 @@
 
 layout: home
 ---
+
+[Wincyj o mnie](/omnie/)
+
+Moje artykuły:
