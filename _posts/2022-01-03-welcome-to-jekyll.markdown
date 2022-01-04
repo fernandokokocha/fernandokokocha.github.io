@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to Krajka Blog!"
 date:   2022-01-03 14:03:15 +0100
 categories: jekyll update
 ---
