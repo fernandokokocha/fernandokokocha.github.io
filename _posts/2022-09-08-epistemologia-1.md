@@ -5,6 +5,8 @@ date:   2022-09-08 12:00:00 +0100
 categories: epistemologia
 ---
 
+<iframe width="480" height="360" src="http://www.youtube.com/embed/cVLKbuxklHI" frameborder="0"> </iframe>
+
 "Ej Bartek, sprzedaj mi tę całą epistemologię. Po co mi to potrzebne, do czego się przydaje itd." - mniej-więcej w te słowy uderzył mój serdeczny przyjaciel Kuba pewnego razu.
 
 Nie umiałem odpowiedzieć inaczej niż "to dla mnie oczywiste, że to ważne".
