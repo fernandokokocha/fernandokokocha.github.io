@@ -5,7 +5,7 @@ date:   2022-09-13 12:00:00 +0100
 categories: epistemologia
 ---
 
-<iframe width="480" height="360" src="http://www.youtube.com/embed/tS1pLJJ3x7A" frameborder="0"> </iframe>
+<iframe width="480" height="360" src="https://www.youtube.com/embed/tS1pLJJ3x7A" frameborder="0"> </iframe>
 
 1. jest ciepło
 
